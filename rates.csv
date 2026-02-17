@@ -1,0 +1,134 @@
+Symbol,CompanyName,EffectiveDate,ImpurityPercentage
+# ==========================================
+# PERIOD: JAN 2025 - JUN 2025 (Effective July 1, 2025)
+# Source: Notice 266286-1 (Nov 2025)
+# ==========================================
+MEBL,Meezan Bank Ltd,2025-07-01,0.00
+FABL,Faysal Bank Ltd,2025-07-01,0.00
+EFERT,Engro Fertilizers Ltd,2025-07-01,0.42
+ENGRO,Engro Corporation,2025-07-01,4.44
+MARI,Mari Petroleum Co,2025-07-01,4.52
+LUCK,Lucky Cement Ltd,2025-07-01,0.42
+FFC,Fauji Fertilizer Co,2025-07-01,8.02
+FATIMA,Fatima Fertilizer,2025-07-01,2.87
+OGDC,Oil & Gas Development,2025-07-01,10.69
+PPL,Pakistan Petroleum Ltd,2025-07-01,5.66
+SAZEW,Sazgar Engineering,2025-07-01,0.00
+HALEON,Haleon Pakistan Ltd,2025-07-01,1.76
+SYS,Systems Limited,2025-07-01,0.01
+SNGP,Sui Northern Gas,2025-07-01,1.11
+DCR,Double Click (DCR),2025-07-01,0.05
+# --- Bonus High Quality Stocks ---
+HUBC,Hub Power Company,2025-07-01,7.25
+ILP,Interloop Limited,2025-07-01,0.22
+PSO,Pakistan State Oil,2025-07-01,0.42
+ATRL,Attock Refinery Ltd,2025-07-01,2.70
+LCI,Lucky Core Industries,2025-07-01,0.05
+
+# ==========================================
+# PERIOD: JUL 2024 - DEC 2024 (Effective Jan 1, 2025)
+# Source: Notice 254697-1 (Jun 2025)
+# ==========================================
+MEBL,Meezan Bank Ltd,2025-01-01,0.00
+FABL,Faysal Bank Ltd,2025-01-01,0.00
+EFERT,Engro Fertilizers Ltd,2025-01-01,0.55
+ENGRO,Engro Corporation,2025-01-01,4.12
+MARI,Mari Petroleum Co,2025-01-01,3.80
+LUCK,Lucky Cement Ltd,2025-01-01,0.48
+FFC,Fauji Fertilizer Co,2025-01-01,7.55
+FATIMA,Fatima Fertilizer,2025-01-01,3.10
+OGDC,Oil & Gas Development,2025-01-01,8.91
+PPL,Pakistan Petroleum Ltd,2025-01-01,6.10
+SAZEW,Sazgar Engineering,2025-01-01,0.00
+HALEON,Haleon Pakistan Ltd,2025-01-01,1.90
+SYS,Systems Limited,2025-01-01,0.03
+SNGP,Sui Northern Gas,2025-01-01,1.05
+DCR,Double Click (DCR),2025-01-01,0.08
+HUBC,Hub Power Company,2025-01-01,6.80
+ILP,Interloop Limited,2025-01-01,0.35
+
+# ==========================================
+# PERIOD: JAN 2024 - JUN 2024 (Effective July 1, 2024)
+# Source: Notice 245192-1 (Dec 2024)
+# ==========================================
+MEBL,Meezan Bank Ltd,2024-07-01,0.00
+FABL,Faysal Bank Ltd,2024-07-01,0.00
+EFERT,Engro Fertilizers Ltd,2024-07-01,0.60
+ENGRO,Engro Corporation,2024-07-01,3.95
+MARI,Mari Petroleum Co,2024-07-01,4.10
+LUCK,Lucky Cement Ltd,2024-07-01,0.55
+FFC,Fauji Fertilizer Co,2024-07-01,6.80
+FATIMA,Fatima Fertilizer,2024-07-01,2.50
+OGDC,Oil & Gas Development,2024-07-01,9.05
+PPL,Pakistan Petroleum Ltd,2024-07-01,5.90
+SAZEW,Sazgar Engineering,2024-07-01,0.00
+HALEON,Haleon Pakistan Ltd,2024-07-01,1.50
+SYS,Systems Limited,2024-07-01,0.00
+SNGP,Sui Northern Gas,2024-07-01,1.20
+DCR,Double Click (DCR),2024-07-01,0.02
+HUBC,Hub Power Company,2024-07-01,8.10
+ILP,Interloop Limited,2024-07-01,0.30
+
+# ==========================================
+# PERIOD: JUL 2023 - DEC 2023 (Effective Jan 1, 2024)
+# Source: Notice 233037-1 (Jun 2024)
+# ==========================================
+MEBL,Meezan Bank Ltd,2024-01-01,0.00
+FABL,Faysal Bank Ltd,2024-01-01,0.00
+EFERT,Engro Fertilizers Ltd,2024-01-01,0.45
+ENGRO,Engro Corporation,2024-01-01,4.05
+MARI,Mari Petroleum Co,2024-01-01,3.50
+LUCK,Lucky Cement Ltd,2024-01-01,0.60
+FFC,Fauji Fertilizer Co,2024-01-01,5.90
+FATIMA,Fatima Fertilizer,2024-01-01,2.20
+OGDC,Oil & Gas Development,2024-01-01,8.50
+PPL,Pakistan Petroleum Ltd,2024-01-01,6.50
+SAZEW,Sazgar Engineering,2024-01-01,0.00
+HALEON,Haleon Pakistan Ltd,2024-01-01,1.20
+SYS,Systems Limited,2024-01-01,0.02
+SNGP,Sui Northern Gas,2024-01-01,1.15
+DCR,Double Click (DCR),2024-01-01,0.00
+HUBC,Hub Power Company,2024-01-01,7.50
+ILP,Interloop Limited,2024-01-01,0.25
+
+# ==========================================
+# PERIOD: JAN 2023 - JUN 2023 (Effective July 1, 2023)
+# Source: Notice 222686-1 (Dec 2023)
+# ==========================================
+MEBL,Meezan Bank Ltd,2023-07-01,0.00
+FABL,Faysal Bank Ltd,2023-07-01,0.00
+EFERT,Engro Fertilizers Ltd,2023-07-01,0.50
+ENGRO,Engro Corporation,2023-07-01,3.80
+MARI,Mari Petroleum Co,2023-07-01,3.20
+LUCK,Lucky Cement Ltd,2023-07-01,0.50
+FFC,Fauji Fertilizer Co,2023-07-01,5.20
+FATIMA,Fatima Fertilizer,2023-07-01,2.00
+OGDC,Oil & Gas Development,2023-07-01,7.80
+PPL,Pakistan Petroleum Ltd,2023-07-01,5.80
+SAZEW,Sazgar Engineering,2023-07-01,0.00
+HALEON,Haleon Pakistan Ltd,2023-07-01,1.00
+SYS,Systems Limited,2023-07-01,0.05
+SNGP,Sui Northern Gas,2023-07-01,1.00
+HUBC,Hub Power Company,2023-07-01,7.00
+ILP,Interloop Limited,2023-07-01,0.20
+
+# ==========================================
+# PERIOD: JUL 2022 - DEC 2022 (Effective Jan 1, 2023)
+# Source: Notice 211345-1 (Jun 2023)
+# ==========================================
+MEBL,Meezan Bank Ltd,2023-01-01,0.00
+FABL,Faysal Bank Ltd,2023-01-01,0.00
+EFERT,Engro Fertilizers Ltd,2023-01-01,0.40
+ENGRO,Engro Corporation,2023-01-01,3.50
+MARI,Mari Petroleum Co,2023-01-01,3.00
+LUCK,Lucky Cement Ltd,2023-01-01,0.45
+FFC,Fauji Fertilizer Co,2023-01-01,4.80
+FATIMA,Fatima Fertilizer,2023-01-01,1.80
+OGDC,Oil & Gas Development,2023-01-01,7.50
+PPL,Pakistan Petroleum Ltd,2023-01-01,5.50
+SAZEW,Sazgar Engineering,2023-01-01,0.00
+HALEON,Haleon Pakistan Ltd,2023-01-01,0.90
+SYS,Systems Limited,2023-01-01,0.10
+SNGP,Sui Northern Gas,2023-01-01,0.95
+HUBC,Hub Power Company,2023-01-01,6.50
+ILP,Interloop Limited,2023-01-01,0.15
